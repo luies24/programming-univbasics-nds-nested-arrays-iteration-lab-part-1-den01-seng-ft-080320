@@ -1,6 +1,6 @@
 def find_even_values(src)
   row_count = 0
-  even_arr = 0
+  even_arr = []
   
   while row_count < src.count do
     element_count = 0
